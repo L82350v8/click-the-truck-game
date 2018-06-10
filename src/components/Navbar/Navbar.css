@@ -1,0 +1,10 @@
+.navbar-fluid {
+  text-align: center;
+}
+
+header {
+  background-color: #222;
+  height: 200px;
+  padding: 20px;
+  color: white;
+}

@@ -1,7 +1,6 @@
 import React from "react";
 import "./TruckCard.css";
 
-
 const TruckCard = props => (
   <div className="card">  
     <div className="card-img">                 

@@ -1,10 +1,12 @@
 .navbar-fluid {
   text-align: center;
 }
-
 header {
-  background-color: #222;
+  background-color: #8C4F32;
   height: 200px;
   padding: 20px;
-  color: white;
+  color: #faf4ea;
+}
+h1 {
+  font-family: 'Goblin One', cursive;
 }
